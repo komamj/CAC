@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="SplashTheme" parent="FullScreenTheme">
+        <item name="android:windowBackground">@drawable/bg_splash</item>
+    </style>
+
+</resources>

@@ -1,0 +1,6 @@
+rootProject.name='CAC'
+include ':app'
+include ':commonlibrary'
+include ':authlibrary'
+include ':storagelibrary'
+include ':testlibrary'

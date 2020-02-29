@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957440248568",
+    "firebase_url": "https://agile-coach-16ba2.firebaseio.com",
+    "project_id": "agile-coach-16ba2",
+    "storage_bucket": "agile-coach-16ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957440248568:android:2797613be2c2598596890d",
+        "android_client_info": {
+          "package_name": "com.koma.cac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957440248568-fs8j6959ji2tp5is6jk8l85nk57a9gni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqRDRuuM6rqosTO5au11RcZz0gr_5um7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957440248568-fs8j6959ji2tp5is6jk8l85nk57a9gni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
